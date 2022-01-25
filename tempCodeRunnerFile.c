@@ -1,0 +1,1 @@
+printf("5.(d)The Maximum element of the Linked list is : %d ", maxList(head));

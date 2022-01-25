@@ -1,0 +1,62 @@
+ Enter the number of elements:
+ 18
+
+ Enter the input elements:
+
+ Enter index 0 element: 4
+
+ Enter index 1 element: 3
+
+ Enter index 2 element: 8
+
+ Enter index 3 element: 7
+
+ Enter index 4 element: 8
+
+ Enter index 5 element: 12
+
+ Enter index 6 element: 9
+
+ Enter index 7 element: 3
+
+ Enter index 8 element: 81
+
+ Enter index 9 element: 24
+
+ Enter index 10 element: 4
+
+ Enter index 11 element: 18
+
+ Enter index 12 element: 8
+
+ Enter index 13 element: 66
+
+ Enter index 14 element: 39
+
+ Enter index 15 element: 6
+
+ Enter index 16 element: 3
+
+ Enter index 17 element: 12
+1. The Linked list after adding nodes with the values provided is:
+4-> 3-> 8-> 7-> 8-> 12-> 9-> 3-> 81-> 24-> 4-> 18-> 8-> 66-> 39-> 6-> 3-> 12
+Next to add a node insert value x at index m(index should be between 1 to n):
+ x:     6
+
+ m:     6
+2. The Linked list after Inserting a node to the list is:
+4-> 3-> 8-> 7-> 8-> 6-> 12-> 9-> 3-> 81-> 24-> 4-> 18-> 8-> 66-> 39-> 6-> 3-> 12
+Enter the value you want to delete:
+66
+3. The Linked list after deleting the node to the list is:
+4-> 3-> 8-> 7-> 8-> 6-> 12-> 9-> 3-> 81-> 24-> 4-> 18-> 8-> 39-> 6-> 3-> 12
+4. The Linked List after Removing all duplicate value nodes from the Linked List:
+4-> 3-> 8-> 7-> 6-> 12-> 9-> 81-> 24-> 18-> 39
+5.(a)Length of the Linked list : 11
+5.(b)The Middle element of the Linked list is: 12
+5.(c)The Avarage of the Linked list is : 19.18181801
+5.(d)The Maximum element of the Linked list is : 81
+6. The linked list after being sorted will be: 
+ 3-> 4-> 6-> 7-> 8-> 9-> 12-> 18-> 24-> 39-> 81
+7. The linked list after being reversed will be: 
+ 81-> 39-> 24-> 18-> 12-> 9-> 8-> 7-> 6-> 4-> 3

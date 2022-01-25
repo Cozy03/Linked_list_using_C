@@ -1,0 +1,37 @@
+Write a C-code to generate the following outputs of the given problem. (Input and output format of your program should be as shown in bold)
+
+ 1. Create a linked list by inserting the following items/values sequentially.
+
+Input: 4, 3, 8, 7, 8, 12, 9, 3, 81, 24, 4, 18, 8, 66, 39, 6, 3, 12
+Output: 4->3->8->7->8->12->9->3->81->24->4->18->8->66->39->6->3->12
+
+ 2. Insert value 6 into the 6th position of the above linked list:
+
+Input:  4->3->8->7->8->12->9->3->81->24->4->18->8->66->39->6->3->12
+Output: 4->3->8->7->8->6->12->9->3->81->24->4->18->8->66->39->6->3->12
+
+ 3. Delete value 66 from the resultant linked list:
+
+Input: 4->3->8->7->8->6->12->9->3->81->24->4->18->8->66->39->6->3->12
+Output: 4->3->8->7->8->6->12->9->3->81->24->4->18->8->39->6->3->12
+
+ 4. Remove the duplicate elements present in the above unsorted resultant linked list
+
+Input: 4->3->8->7->8->6->12->9->3->81->24->4->18->8->39->6->3->12
+Output: 4->3->8->7->6->12->9->81->24->18->39
+
+
+ 5. Find the length, middle element, maximum element and average values of the above resultant linked list:
+
+Input: 4->3->8->7->6->12->9->81->24->18->39
+Output: Length: 11, Middle element: 12, Maximum element: 81, Average value= 19.18181
+
+ 6. Sort the above resultant linked list: (Sorting function already given in the materials provided below;  just append the function as it is.)
+
+Input: 4->3->8->7->6->12->9->81->24->18->39
+Output: 3->4->6->7->8->9->12->18->24->39->81
+
+ 7. Finally generate the reverse order of the above resultant linked list:
+
+Input: 3->4->6->7->8->9->12->18->24->39->81
+Output: 81->39->24->18->12->9->8->7->6->4->3
